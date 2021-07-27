@@ -5,7 +5,8 @@
 **Search** - O(n) for unsorted arrays, O(log n) for sorted arrays\
 **Delete** - O(n)\
 **Accessing i-th element** - O(1)\
-**Updating i-th element** - O(1)\
+**Updating i-th element** - O(1)
+
 ---
 
 ## Advantages of using arrays:
