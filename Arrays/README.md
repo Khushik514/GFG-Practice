@@ -12,5 +12,3 @@
 ## Advantages of using arrays:
 #### 1. Arrays allow random access of elements. This makes accessing elements by position faster.
 #### 2. Arrays have better cache locality that can make a pretty big difference in performance.
-
-*Basic Array Questions solved on the GfG platform added in this sub-directory*
